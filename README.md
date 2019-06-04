@@ -1,3 +1,3 @@
 # UW-Research-hls4ml
 
-Steps to gain access to necessary resources needed to utilize hls4ml material.
+Steps to gain access to resources for hls4ml related material.
